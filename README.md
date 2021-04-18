@@ -6,6 +6,6 @@ step 1: clone this repository git clone https://github.com/dineshs7/react-redux-
 
 step 2: open current project directory(/react-redux-employee-management/client) in CMD and enter npm i - to install all dependencies
 
-step 3: npm start
+step 3: To start application enter npm start
 
-step 4: Go to http://localhost:3000/
+step 4: Go to http://localhost:3000/ 
